@@ -80,8 +80,19 @@ Save the final processed data as a CSV file for reporting and dashboard creation
 • Managing version control using Git & GitHub
 • Preparing datasets for analytical and visualization tools
 
-### 👤 Author
+
+### 📊 Dashboard Preview
+![Global_Military_Intelligence_Hub](https://github.com/user-attachments/assets/6375ce1d-8c69-4570-83c8-af85d5f78c0b)
+![Nation_overview](https://github.com/user-attachments/assets/fb859b90-f249-4ef7-bc73-3bb9458f9eb4)
+![Compare_Powers](https://github.com/user-attachments/assets/1612dbcf-a715-4f6f-8173-5366579def36)
+![Coalition_builder](https://github.com/user-attachments/assets/371907c2-b89e-4841-90c8-ae3eb2467f32)
+
+## 👤 Author
 
 Rutuja Sadik Ghodake
 
 ⭐ If you found this project helpful, feel free to explore or contribute.
+
+
+
+
